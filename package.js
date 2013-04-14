@@ -14,6 +14,6 @@ Package.register_extension(
 );
 
 Package.on_use(function (api) {
-    api.add_files('3OF9_NEW.TTF', "client");
+    api.add_files('fonts/3OF9_NEW.TTF', "client");
     api.add_files('fonts-barcode.css', "client");
 });
