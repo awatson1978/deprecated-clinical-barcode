@@ -23,11 +23,9 @@ Second, add the 'pictographs' class to the appropriate HTML tags, like so.  Dead
 ------------------------
 ### Reminder
 
-fonts-barcode supports the following lexicon, so feel free to use whichever works best in your syntax.
+You MUST enclose your barcode with asterixes!!!
 
 ````
-pictograph
-pictographs
-pictogram
-pictograms
+*123456789*
 ````
+
