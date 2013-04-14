@@ -21,7 +21,7 @@ Second, add the 'pictographs' class to the appropriate HTML tags, like so.  Dead
 ````
 
 ------------------------
-### Lexicon
+### Reminder
 
 fonts-barcode supports the following lexicon, so feel free to use whichever works best in your syntax.
 
