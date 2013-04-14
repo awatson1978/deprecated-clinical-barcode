@@ -14,11 +14,12 @@ mrt add fonts-barcode
 ------------------------
 ### Data/Document Model
 
-Second, add the 'pictographs' class to the appropriate HTML tags, like so.  Dead simple, right?
+Second, add the 'barcode' class to the appropriate HTML tags, like so.  Dead simple, right?
 
 ````
-    <div>This is a barcode: <span class="pictographs">*123-45-6789*</span></div>
+    <div>This is a barcode: <span class="barcode">*123-45-6789*</span></div>
 ````
+
 
 ------------------------
 ### Reminder
