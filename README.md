@@ -14,8 +14,8 @@ mrt add fonts-barcode
 
 Second, add the 'barcode' class to the appropriate HTML tags, like so.  Dead simple, right?
 
-````
-    <div>This is a barcode: <span class="barcode">*123-45-6789*</span></div>
+````html
+<div>This is a barcode: <span class="barcode">*123-45-6789*</span></div>
 ````
 
 
