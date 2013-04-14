@@ -18,3 +18,12 @@ Second, add the 'barcode' class to the appropriate HTML tags, like so.  Dead sim
 ````
     <div>This is a barcode: <span class="barcode">*123-45-6789*</span></div>
 ````
+
+
+### **REMINDER**
+
+You MUST enclose your barcode with asterixes!!!
+
+````
+*123456789*
+````
