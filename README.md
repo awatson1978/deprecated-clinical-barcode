@@ -14,17 +14,20 @@ mrt add fonts-barcode
 ------------------------
 ### Data/Document Model
 
-Second, add the 'barcode' class to the appropriate HTML tags, like so.  Dead simple, right?
+Second, add the 'pictographs' class to the appropriate HTML tags, like so.  Dead simple, right?
 
 ````
-    <div>This is a barcode: <span class="barcode">*123-45-6789*</span></div>
+    <div>This is a barcode: <span class="pictographs">*123-45-6789*</span></div>
 ````
 
+------------------------
+### Lexicon
 
-### **REMINDER**
-
-You MUST enclose your barcode with asterixes!!!
+fonts-barcode supports the following lexicon, so feel free to use whichever works best in your syntax.
 
 ````
-*123456789*
+pictograph
+pictographs
+pictogram
+pictograms
 ````
