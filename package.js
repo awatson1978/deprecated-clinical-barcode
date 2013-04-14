@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Adds an audio-pkg sound whenever someone clicks a list item."
+  summary: "fonts-barcode is a Meteorite package for adding the 3 of 9 Barcode font to Meteor apps."
 });
 
 Package.register_extension(
