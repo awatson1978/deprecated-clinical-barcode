@@ -1,4 +1,4 @@
-**fonts-barcode** is a Meteorite package for adding the 3 of 9 Barcode font to Meteor apps.  Admit it, we all love fonts.  And how cool is it that barcodes are just fonts?  Useful for any apps requiring inventory tracking or printing of labels.    If you like these pictographs, go to their website and buy the pro version!
+**fonts-barcode** is a Meteorite package for adding the 3 of 9 Barcode font to Meteor apps.   If you like these pictographs, go to their website and buy the pro version!  They're fantastic!
 
 http://modernpictograms.com/
 
