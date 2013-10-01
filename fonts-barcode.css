@@ -1,7 +1,7 @@
 @font-face
 {
     font-family: Barcode;
-    src: url('/fonts/3OF9_NEW.TTF');
+    src: url('/packages/fonts-barcode/fonts/3OF9_NEW.TTF');
 }
 .barcode{
     font-family: Barcode;
