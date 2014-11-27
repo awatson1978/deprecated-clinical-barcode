@@ -1,8 +1,11 @@
 Package.describe({
-  summary: "fonts-barcode is a Meteorite package for adding the 3 of 9 Barcode font to Meteor apps."
+  summary: "Provides the 3 of 9 Barcode font."
+  version: "2.0.0",
+  name: "clinical:barcode",
+  git: "http://github.com/awatson1978/fonts-barcode.git"
 });
 
 Package.on_use(function (api) {
-    api.add_files('fonts/3OF9_NEW.TTF', "client");
-    api.add_files('fonts-barcode.css', "client");
+  api.addFiles('fonts/3OF9_NEW.TTF', "client");
+  api.addFiles('fonts-barcode.css', "client");
 });
