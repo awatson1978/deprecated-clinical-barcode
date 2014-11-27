@@ -1,7 +1,7 @@
 Package.describe({
-  summary: "Provides the 3 of 9 Barcode font."
-  version: "2.0.0",
-  name: "clinical:barcode",
+  summary: "Provides the 3 of 9 Barcode font.",
+  version: "2.0.1",
+  name: "clinical:barcodes",
   git: "http://github.com/awatson1978/fonts-barcode.git"
 });
 
